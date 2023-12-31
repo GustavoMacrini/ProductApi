@@ -24,6 +24,7 @@
 <p>Foi desenvolvido apenas o back-end, os testes de requisição podem ser realizados em aplicativos como Postman ou Insomnia</p>
 
 <h2 align="center">Exemplos de testes de requisição</h2>
+
 ### POST
 <p>http://localhost:5038/products</p>
 <p>Body: { "code": "5", "name": "Memory 8gb", "description": "memoria ram", "categoryId": 1, "tags": ["computer", "technologie"]}</p>
