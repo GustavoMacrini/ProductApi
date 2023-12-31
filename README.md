@@ -20,6 +20,7 @@
 - [x] Atualização de produtos
 - [x] Exclusão de produtos
 
+
 ### Detalhes
 <p>Foi desenvolvido apenas o back-end, os testes de requisição podem ser realizados em aplicativos como Postman ou Insomnia</p>
 
